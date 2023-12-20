@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 0 3px black;
+}
+
+header li {
+    display: inline;
+    padding-left: 14px;
+}
+
+header li a:hover{
+    color: peachpuff;
+}
+
+#recipeAll {
+    float: left;
+    margin-right: 20px;
+    font-family: cursive;
+    font-size: larger;
+}
+
+header li img {
+    float: left;
+    width: 50px;
+    margin-top: -10px;
+}
+
+header a {
+    padding: 13px;
+    text-decoration: none;
+}
